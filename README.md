@@ -30,13 +30,6 @@ Welcome to the official repository for **SmartCare AI**, an intelligent clinical
 ├── 📄 SmartCare_Presentation.pptx             # Project presentation slides
 └── 📄 requirements.txt                        # Project dependencies
 
-Running the Prototype
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
 The app loads `models/readmission_model.pkl` and `models/model_metadata.json`, so run it
 from the repository root (or adjust the paths in `app.py` if you restructure folders).
 
