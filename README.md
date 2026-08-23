@@ -1,7 +1,6 @@
 # SmartCare Hospital — AI-Powered 30-Day Patient Readmission Prediction
 
 **CCS3440 — Artificial Intelligence Coursework**
-**Faculty of Computing & IT | SLTC University**
 
 ---
 
