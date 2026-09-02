@@ -233,8 +233,11 @@ The repository includes:
 ##  Academic Context
 
 **Course:** CCS3440 — Artificial Intelligence
+
 **Institution:** SLTC University
+
 **Faculty:** Faculty of Computing & IT
+
 **Project:** SmartCare Hospital — AI-Powered 30-Day Patient Readmission Prediction
 
 ---
