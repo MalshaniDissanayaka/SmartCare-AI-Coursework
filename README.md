@@ -180,10 +180,10 @@ provides descriptions and metadata for the dataset attributes.
 | Team Member              | Student ID     | Contribution                               |
 | ------------------------ | -------------- | ------------------------------------------ |
 | **Achira Sadharanga**    | CIT-23-02-0170 | Literature review and technical report     |
-| **Hithesh Maheepala**    | CIT-23-02-0140 | Data preprocessing and feature engineering |
-| **Seminda Fernando**     | CIT-23-02-0122 | Model development and evaluation           |
-| **Navodya Sankalpani**   | CIT-23-02-0046 | Model development and evaluation           |
-| **Malshani Dissanayaka** | CIT-23-02-0026 | Explainable AI and Streamlit prototype     |
+| **Hithesh Maheepala**    | CIT-23-02-0140 | Data Preprocessing & Feature Engineering |
+| **Seminda Fernando**     | CIT-23-02-0122 | Exploratory Data Analysis and ML Model Development           |
+| **Navodya Sankalpani**   | CIT-23-02-0046 | Model Evaluation and Explainable AI Analysis (SHAP)           |
+| **Malshani Dissanayaka** | CIT-23-02-0026 | Model Export for Prototype     |
 
 All team members contributed to the overall development, testing, documentation, and completion of the SmartCare AI coursework project.
 
