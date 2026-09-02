@@ -239,4 +239,3 @@ The repository includes:
 
 ---
 
-⭐ **SmartCare AI — Turning healthcare data into interpretable predictive insights.**
