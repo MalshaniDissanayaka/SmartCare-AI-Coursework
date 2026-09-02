@@ -234,7 +234,7 @@ The repository includes:
 
 **Course:** CCS3440 — Artificial Intelligence
 
-**Institution:** SLTC University
+**Institution:** SLTC Campus
 
 **Faculty:** Faculty of Computing & IT
 
