@@ -234,7 +234,7 @@ The repository includes:
 
 **Course:** CCS3440 — Artificial Intelligence
 
-**Institution:** SLTC Campus
+**Institution:** Sri Lanka Technology Campus 
 
 **Faculty:** Faculty of Computing & IT
 
