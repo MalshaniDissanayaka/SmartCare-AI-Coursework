@@ -1186,7 +1186,7 @@ if submitted:
         except Exception as error:
 
             st.warning(
-                "⚠️ The prediction was generated successfully, "
+                " The prediction was generated successfully, "
                 "but the local SHAP explanation could not be calculated "
                 "for this model configuration."
             )
