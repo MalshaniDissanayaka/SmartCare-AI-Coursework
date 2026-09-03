@@ -188,7 +188,7 @@ try:
 
 except Exception as error:
 
-    st.error("❌ SmartCare could not load the trained model.")
+    st.error(" SmartCare could not load the trained model.")
 
     st.code(str(error))
 
@@ -269,11 +269,11 @@ with metric3:
 
 
 st.info(
-    "⚠️ **Academic decision-support prototype:** "
+    " **Academic decision-support prototype:** "
     "This system was developed for CCS3440 Artificial Intelligence coursework. "
     "It is trained on a synthetic teaching dataset and is **not clinically validated**. "
     "The prediction must never replace professional clinical judgement.",
-    icon="⚠️",
+    
 )
 
 st.divider()
