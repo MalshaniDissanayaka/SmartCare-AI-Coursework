@@ -13,7 +13,7 @@ The system predicts whether a hospital patient is likely to be **readmitted with
 The project also includes an interactive **Streamlit web application** that allows users to enter patient information and obtain a predicted readmission risk together with an explanation of the prediction.
 
  **Explore the Live Application:**
-[SmartCare Streamlit Prototype](https://i7j6zly2spyf5kxtor9znp.streamlit.app/)
+[SmartCare Streamlit Prototype](https://super-duper-lamp-q76vg4jp97gr3x9gg-8501.app.github.dev/)
 
 ---
 
